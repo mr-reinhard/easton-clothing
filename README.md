@@ -15,25 +15,96 @@
 - Foto belum di update
 
 ## Screenshoot
-- **Slide Atas**
+
+
+
+### Slide atas
 ![image.jpg](ss/_slide.png)
 
 
 
-- **Product**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Product
 ![image.jpg](ss/_product.png)
 
 
 
-- **About**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### About
 ![image.jpg](ss/_about.png)
 
 
 
-- **Email**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Email
 ![image.jpg](ss/_email.png)
 
 
 
-- **Model**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Model
 ![image.jpg](ss/_model.png)
