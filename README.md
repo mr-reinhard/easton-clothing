@@ -15,3 +15,13 @@
 - Foto belum di update
 
 ## Screenshoot
+- Slide Atas
+![image.jpg](ss/_slide.png)
+- Product
+![image.jpg](ss/_product.png)
+- About
+![image.jpg](ss/_about.png)
+- Email
+![image.jpg](ss/_email.png)
+- Model
+![image.jpg](ss/_model.png)
