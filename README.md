@@ -1,4 +1,5 @@
-# Project Web Easton Clothing Co.
+# Easton Clothing Co.
+> This brand exist because of the blessing of parent's and God!
 
 ## Teknologi
 1. **Frontend**
